@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co/pZ64RDC/098898df-5662-4d72-9c47-b288111a192d.jpg"  />
+  <img height="300" src="(https://raw.githubusercontent.com/GearHead87/GearHead87/refs/heads/main/Profile%20Cover.webp)"  />
 </div>
 
 ###
