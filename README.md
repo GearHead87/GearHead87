@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="(https://raw.githubusercontent.com/GearHead87/GearHead87/refs/heads/main/Profile%20Cover.webp)"  />
+  <img src="https://raw.githubusercontent.com/GearHead87/GearHead87/refs/heads/main/Profile%20Cover.webp"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a web developer from Bangladesh, passionate about personal and professional growth. Currently, I'm dedicated to expanding my knowledge of new technologies.
+I'm a passionate programmer from Bangladesh. I'm passionate about personal and professional growth and am currently dedicated to expanding my knowledge of new technologies.
 
 -   🔭 I’m currently working on various web development projects.
 -   🌱 I'm continuously learning and believe every day is an opportunity to gain new knowledge.
@@ -38,6 +38,9 @@ I'm a web developer from Bangladesh, passionate about personal and professional 
 
 ## 📈 GitHub Stats
 
-![GearHead87's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GearHead87&layout=compact&theme=dracula)
-![GearHead87's GitHub stats](https://github-readme-stats.vercel.app/api?username=GearHead87&show_icons=true&theme=dracula)
-![GearHead87's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=dracula)
+<div align="center">
+  ![GearHead87's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GearHead87&layout=compact&theme=dracula)
+  ![GearHead87's GitHub stats](https://github-readme-stats.vercel.app/api?username=GearHead87&show_icons=true&theme=dracula)
+  ![GearHead87's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=dracula)
+</div>
+
