@@ -12,6 +12,6 @@ jobs:
       - name: Update Dev Card
         uses: nickytonline/open-sauced-dev-card-action@v1.0.2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.TOKEN }}
           username: 'GearHead87'
           
