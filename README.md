@@ -29,6 +29,9 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 
 [![My OpenSauced Dev Card](./dev-card.png)](https://app.opensauced.pizza/u/GearHead87?range=90)
 
+## Check out my Daily Dev! 👇
+<a href="https://app.daily.dev/gearhead87"><img src="./devcard.png" width="356" alt="Hossain's Dev Card"/></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GearHead87&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
