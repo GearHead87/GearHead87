@@ -36,7 +36,7 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 ![](https://github-contributor-stats.vercel.app/api?username=GearHead87&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in) --->
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false" />
