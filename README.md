@@ -37,3 +37,7 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false" />
+</a>
