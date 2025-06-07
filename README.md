@@ -37,3 +37,5 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GearHead87&label=Profile%20Views&color=2&icon=5&pretty=false" />
 </a>
+
+[![Visits Badge](https://badges.pufler.dev/visits/gearhead87/gearhead87)](https://gearhead.owns.it.com/)
