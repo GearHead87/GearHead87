@@ -25,10 +25,6 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=GearHead87&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GearHead87&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Check out my open-source contribution snapshot! 👇
-
-[![My OpenSauced Dev Card](./dev-card.png)](https://app.opensauced.pizza/u/GearHead87?range=90)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GearHead87&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
