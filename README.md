@@ -22,7 +22,7 @@ I'm a passionate programmer from Bangladesh. I'm passionate about personal and p
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GearHead87&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats-eight.vercel.app/?user=GearHead87&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=GearHead87&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GearHead87&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
